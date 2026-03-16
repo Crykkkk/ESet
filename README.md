@@ -168,7 +168,13 @@ https://notes.sjtu.edu.cn/WsEYXSzDSKSEG8oBG5YX0g
 
 请查阅 *perf* 和 *gperf* 的相关内容。或许可以了解*性能调优*。
 
+**如果学有余力，你们可以也可以与其他与平衡树类似级别的数据结构与红黑树进行比较：比如跳表，替罪羊树，Splay树，无旋Treap，B树，B+树，WBLT树，Leafy树等等**
 
+可以参考：
+
+```
+https://notes.sjtu.edu.cn/bVGkZt8dQSKFX0OSLhzm8w
+```
 ## Grading
 
 - Task 1： 提交.hpp，50%
