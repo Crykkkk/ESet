@@ -3,7 +3,7 @@
 
 #include "rb_tree.hpp"
 #include "exception.hpp"
-#include <functional>
+#include <bits/stl_function.h>
 #include <utility>
 
 template<class Key, class Compare = std::less<Key>> 
